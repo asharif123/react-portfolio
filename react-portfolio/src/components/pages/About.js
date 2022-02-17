@@ -12,8 +12,8 @@ export default function About() {
         University of California, Irvine.</p>
       <p className="aboutMe-skills">Skills: HTML, CSS, Javascript, Linux, Python, React, Node.js, Express.js</p>
       <div className="aboutMe-icons">
-          <a href="https://www.linkedin.com/in/awad-sharif/"><img src="./images/linkedIn.JPG" alt="LinkedIn"></img></a>
-          <a href="https://github.com/asharif123/"><img src="./images/github.JPG" alt="Github"></img></a>
+          <a href="https://www.linkedin.com/in/awad-sharif/"><img src="../images/linkedIn.JPG" alt="LinkedIn"></img></a>
+          <a href="https://github.com/asharif123/"><img src="../images/github.JPG" alt="Github"></img></a>
 
       </div>
     </div>
