@@ -5,6 +5,12 @@
     color: white;
 }
 
+
+a:focus {
+    color: rgb(179, 50, 11);
+}
+
+
 .nav-tabs a {
     text-decoration: none;
 }
