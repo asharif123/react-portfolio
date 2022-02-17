@@ -1,21 +1,21 @@
 import React from 'react';
-
+import '../styles/About.css';
 export default function About() {
   return (
-    <div>
-      <h1>About</h1>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
+    <div className="aboutMe bg-desert">
+      <img src="./images/profile.JPG" alt="Profile"></img>
+      <p className="aboutMe-summary">
+        I am an aspiring web developer with over 7 years of telecommunications
+        experience and possess over 4 years of quality assurance.
       </p>
+      <p className="aboutMe-summary">I possess a Bachelor's of Science in Electrical Engineering from the 
+        University of California, Irvine.</p>
+      <p className="aboutMe-skills">Skills: HTML, CSS, Javascript, Linux, Python, React, Node.js, Express.js</p>
+      <div className="aboutMe-icons">
+          <a href="https://www.linkedin.com/in/awad-sharif/"><img src="./images/linkedIn.JPG" alt="LinkedIn"></img></a>
+          <a href="https://github.com/asharif123/"><img src="./images/github.JPG" alt="Github"></img></a>
+
+      </div>
     </div>
   );
 }

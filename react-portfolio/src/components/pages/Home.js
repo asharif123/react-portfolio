@@ -1,13 +1,11 @@
 import React from 'react';
-
+import '../styles/Home.css';
 export default function Home() {
   return (
-    <div>
-      <h1>Home Page</h1>
-      <p>Hello! My name is Awad Sharif and I am an aspiring web developer with over 4 years of experience solving technical issues across QA/QC.</p>
-      <p>I graduated with a B.S. in Electrical Engineering from University of California, Irvine and have about 7 years of telecommunications job experience.</p>
-      <p>My goal is to utilize background in electrical engineering and experience in quality control to dev</p> elop web apps with a focus on mobile-responsiveness.Strengths in creativity, communication and teamwork
-      
+    <div className="homePage bg-desert">
+      <p class="home-summary">My name is Awad Sharif!</p>
+      <p>I am an aspiring web developer with over 4 years of quality control/quality assurance experience.</p>      
     </div>
   );
 }
+
