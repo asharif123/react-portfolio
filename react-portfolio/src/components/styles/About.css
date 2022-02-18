@@ -3,16 +3,18 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding: 2%;
 }
 
 .aboutMe-summary {
-    font-size: 150%;
+    font-size: 120%;
     line-height: 2;
+    margin-bottom: 5%;
 }
 
-.bout-me-image {
-    height: 100px;
-    width: 200px;
+.about-me-image {
+    margin-bottom: 5%;
+    height: 200px;
     object-fit: contain;
 
 }

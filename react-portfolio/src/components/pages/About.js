@@ -12,6 +12,7 @@ export default function About() {
       </p>
       <p className="aboutMe-summary">I possess a Bachelor's of Science in Electrical Engineering from the 
         University of California, Irvine.</p>
+        <p className="aboutMe-summary">I possess skills in HTML, CSS, JavaScript, React, Bootstrap, Express.js, and Node.js.</p>
       <footer className="footer-icons flex">
           <a href="https://www.linkedin.com/in/awad-sharif/"><img src="/images/linkedIn.JPG" alt="LinkedIn"></img></a>
           <a href="https://github.com/asharif123/"><img src="/images/github.JPG" alt="Github"></img></a>

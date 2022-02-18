@@ -18,24 +18,24 @@ export default function Portfolio() {
                     <a className="deployed-link" href="https://still-garden-56258.herokuapp.com/">Deployed Link</a>
                 </div>
                 <div>
-                    <h1>Rental Finders</h1>
-                    <a href="https://github.com/asharif123/rental-finder"><img className="portfolio-card-image" src="/images/rental-finder.JPG" alt="Rental Finder"></img></a>
-                    <a className="deployed-link" href="https://rental-finders.herokuapp.com/">Deployed Link</a>
+                    <h1>Note Taker</h1>
+                    <a href="https://github.com/asharif123/note-taker"><img className="portfolio-card-image" src="/images/note-taker.JPG" alt="Rental Finder"></img></a>
+                    <a className="deployed-link" href="https://damp-temple-36265.herokuapp.com/">Deployed Link</a>
                 </div>
                 <div>
-                    <h1>Rental Finders</h1>
-                    <a href="https://github.com/asharif123/rental-finder"><img className="portfolio-card-image" src="/images/rental-finder.JPG" alt="Rental Finder"></img></a>
-                    <a className="deployed-link" href="https://rental-finders.herokuapp.com/">Deployed Link</a>
+                    <h1>Weather Dashboard</h1>
+                    <a href="https://github.com/asharif123/weather-dashboard"><img className="portfolio-card-image" src="/images/weather-dashboard.JPG" alt="Rental Finder"></img></a>
+                    <a className="deployed-link" href="https://asharif123.github.io/weather-dashboard/">Deployed Link</a>
                 </div>
                 <div>
-                    <h1>Rental Finders</h1>
-                    <a href="https://github.com/asharif123/rental-finder"><img className="portfolio-card-image" src="/images/rental-finder.JPG" alt="Rental Finder"></img></a>
-                    <a className="deployed-link" href="https://rental-finders.herokuapp.com/">Deployed Link</a>
+                    <h1>Password Generator</h1>
+                    <a href="https://github.com/asharif123/password-generator"><img className="portfolio-card-image" src="/images/password-generator.JPG" alt="Rental Finder"></img></a>
+                    <a className="deployed-link" href="https://asharif123.github.io/password-generator/">Deployed Link</a>
                 </div>
                 <div>
-                    <h1>Rental Finders</h1>
-                    <a href="https://github.com/asharif123/rental-finder"><img className="portfolio-card-image" src="/images/rental-finder.JPG" alt="Rental Finder"></img></a>
-                    <a className="deployed-link" href="https://rental-finders.herokuapp.com/">Deployed Link</a>
+                    <h1>Code Quiz</h1>
+                    <a href="https://github.com/asharif123/code-questionnaire"><img className="portfolio-card-image" src="/images/code-quiz.JPG" alt="Rental Finder"></img></a>
+                    <a className="deployed-link" href="https://asharif123.github.io/code-questionnaire/">Deployed Link</a>
                 </div>
 
 
