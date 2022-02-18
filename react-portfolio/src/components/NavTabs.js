@@ -4,7 +4,9 @@ import './styles/NavTabs.css';
 // We assign them to their own variable names
 function NavTabs({ currentPage, handlePageChange }) {
   return (
+      
     <ul className="nav nav-tabs bg-gradient-to-r from-black to-gray-500 ... p-5">
+        <p>Awad Sharif</p>
       <li className="nav-item">
         <a
           href="#home"
