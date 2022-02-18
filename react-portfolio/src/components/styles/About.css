@@ -10,3 +10,20 @@
     line-height: 2;
 }
 
+.bout-me-image {
+    height: 100px;
+    width: 200px;
+    object-fit: contain;
+
+}
+
+.aboutMe img {
+    border-radius: 10px;
+
+}
+
+img {
+    border-radius: 10px;
+}
+
+

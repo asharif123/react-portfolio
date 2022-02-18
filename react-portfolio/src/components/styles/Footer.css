@@ -1,0 +1,11 @@
+.footer-icons {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-icons img {
+    width: 40px;
+    margin: 15% 10% 0% 15%;
+    padding-left: 5%;
+    
+}
