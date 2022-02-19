@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
-import '../styles/Contact.css';
-import '../styles/Footer.css';
-
+import '../pages/styles/Contact.css';
+import '../pages/styles/Footer.css';
+import linkedIn from '../pages/images/linkedIn.JPG';
+import gitHub from '../pages/images/github.JPG'
 import { validateEmail, validateName, validateMessage } from '../../utils/helpers';
 export default function Contact() {
     const [email, setEmail] = useState('');
@@ -85,8 +86,8 @@ export default function Contact() {
             <button type="button" className="messageButton" onClick={handleFormSubmit}>Submit</button>
         </form>
         <footer className="footer-icons flex justify-center">
-          <a href="https://www.linkedin.com/in/awad-sharif/"><img src="/images/linkedIn.JPG" alt="LinkedIn"></img></a>
-          <a href="https://github.com/asharif123/"><img src="/images/github.JPG" alt="Github"></img></a>
+          <a href="https://www.linkedin.com/in/awad-sharif/"><img src={linkedIn} alt="LinkedIn"></img></a>
+          <a href="https://github.com/asharif123/"><img src={gitHub} alt="Github"></img></a>
 
         </footer>
 

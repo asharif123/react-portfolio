@@ -4,7 +4,7 @@ module.exports = {
   ],
   theme: {
     extend: {backgroundImage: {
-      'desert': "url('../public/images/desert.jpg')"
+      'desert': "url('./images/desert.jpg')"
     }},
   },
   plugins: [],

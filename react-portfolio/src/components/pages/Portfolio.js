@@ -1,6 +1,9 @@
 import React from 'react';
-import '../styles/Portfolio.css';
-import '../styles/Footer.css';
+import '../pages/styles/Portfolio.css';
+import '../pages/styles/Footer.css';
+import linkedIn from '../pages/images/linkedIn.JPG';
+import gitHub from '../pages/images/github.JPG'
+import rentalFinders from '../pages/images/rental-finder.JPG'
 
 export default function Portfolio() {
   return (
@@ -9,7 +12,7 @@ export default function Portfolio() {
             <div className="portfolio-projects-card">
                 <div>
                     <h1>Rental Finders</h1>
-                    <a href="https://github.com/asharif123/rental-finder"><img className="portfolio-card-image" src="/images/rental-finder.JPG" alt="Rental Finder"></img></a>
+                    <a href="https://github.com/asharif123/rental-finder"><img className="portfolio-card-image" src={rentalFinders} alt="Rental Finder"></img></a>
                     <a className="deployed-link" href="https://rental-finders.herokuapp.com/">Deployed Link</a>
                 </div>
                 <div>
@@ -46,8 +49,8 @@ export default function Portfolio() {
             </div>
         </div>
       <footer className="footer-icons">
-          <a href="https://www.linkedin.com/in/awad-sharif/"><img src="/images/linkedIn.JPG" alt="LinkedIn"></img></a>
-          <a href="https://github.com/asharif123/"><img src="/images/github.JPG" alt="Github"></img></a>
+          <a href="https://www.linkedin.com/in/awad-sharif/"><img src={linkedIn} alt="LinkedIn"></img></a>
+          <a href="https://github.com/asharif123/"><img src={gitHub} alt="Github"></img></a>
       </footer>
 
     </div>
