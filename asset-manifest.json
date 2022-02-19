@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/asharif123/react-portfolio/static/css/main.ad78d845.css",
+    "main.js": "/asharif123/react-portfolio/static/js/main.0cc83635.js",
+    "static/media/desert.jpg": "/asharif123/react-portfolio/static/media/desert.84ffb724d5f8526b4a33.jpg",
+    "static/media/rental-finder.JPG": "/asharif123/react-portfolio/static/media/rental-finder.c08c8d22e8fc41213ed4.JPG",
+    "static/media/Career-Resume-Web-Developer.pdf": "/asharif123/react-portfolio/static/media/Career-Resume-Web-Developer.4ba90846a732280cfe47.pdf",
+    "static/media/tech-blog.JPG": "/asharif123/react-portfolio/static/media/tech-blog.bbcad5f1b36f510b5dc1.JPG",
+    "static/media/weather-dashboard.JPG": "/asharif123/react-portfolio/static/media/weather-dashboard.02baccc8839ef77bebd3.JPG",
+    "static/media/code-quiz.JPG": "/asharif123/react-portfolio/static/media/code-quiz.96049f20ef73d1535063.JPG",
+    "static/media/password-generator.JPG": "/asharif123/react-portfolio/static/media/password-generator.3fbd8c6cdd09ba71d480.JPG",
+    "static/media/note-taker.JPG": "/asharif123/react-portfolio/static/media/note-taker.a0a018b2e721982f5b63.JPG",
+    "static/media/profile.JPG": "/asharif123/react-portfolio/static/media/profile.95413bbf83cd12a68ea9.JPG",
+    "static/media/github.JPG": "/asharif123/react-portfolio/static/media/github.a9c7535444e111e2f8a9.JPG",
+    "static/media/linkedIn.JPG": "/asharif123/react-portfolio/static/media/linkedIn.18116f5e5a8f47be9a08.JPG",
+    "index.html": "/asharif123/react-portfolio/index.html",
+    "main.ad78d845.css.map": "/asharif123/react-portfolio/static/css/main.ad78d845.css.map",
+    "main.0cc83635.js.map": "/asharif123/react-portfolio/static/js/main.0cc83635.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad78d845.css",
+    "static/js/main.0cc83635.js"
+  ]
+}
