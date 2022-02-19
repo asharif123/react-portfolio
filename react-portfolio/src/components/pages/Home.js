@@ -4,6 +4,7 @@ import '../pages/styles/Footer.css';
 import linkedIn from '../pages/images/linkedIn.JPG';
 import gitHub from '../pages/images/github.JPG'
 
+
 export default function Home() {
   return (
     <div className="homePage bg-desert">

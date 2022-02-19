@@ -1,6 +1,8 @@
 .portfolio {
     color: rgb(228, 225, 225);
     margin: 0 auto;
+    background-image: url("../images/desert.jpg");
+
 }
 
 .portfolio-card-image {
