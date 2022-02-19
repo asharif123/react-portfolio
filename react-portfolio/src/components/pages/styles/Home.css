@@ -32,3 +32,15 @@ p {
     min-height: 100vh;
     min-width: 100vw;
 }
+
+@media screen and (max-width: 900px) {
+    .home-summary, .home-summary-information{
+      font-size: 200%;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .home-summary, .home-summary-information{
+      font-size: 80%;
+    }
+  }

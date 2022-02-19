@@ -14,3 +14,15 @@ a:focus {
 .nav-tabs a {
     text-decoration: none;
 }
+
+@media screen and (max-width: 600px) {
+    .nav-tabs a, p {
+      font-size: 60%;
+    }
+  }
+
+@media screen and (max-width: 460px) {
+.nav-tabs a, p {
+    font-size: 10%;
+}
+}

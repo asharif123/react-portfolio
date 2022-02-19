@@ -20,3 +20,8 @@
     margin: 1% 0%;
 }
 
+@media screen and (max-width: 620px) {
+    .resume-download {
+        font-size: 90%;
+    }
+    }
