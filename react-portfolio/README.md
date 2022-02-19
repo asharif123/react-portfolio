@@ -10,7 +10,6 @@ My portfolio was created using the React framework and it is composed of the fol
 - Portfolio
 - Resume
 
-#Home
+Here is a link to the deployed website:
 
-![alt-text](./images/profile.JPG "main-page-1")
 
